@@ -1,0 +1,28 @@
+.traffic-light-container{
+  background-color: black;
+  height: 300px;
+  width: 150px;
+}
+
+.red-light {
+background-color: red;
+height: 100px;
+width: 100px;
+border-radius: 50%;
+}
+.amber-light {
+  background-color: orange;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+}
+.green-light {
+  background-color: green;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+}
+
+.light-off {
+  background-color: grey;
+}
